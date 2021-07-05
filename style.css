@@ -1,0 +1,36 @@
+html, body {
+  margin: 0px;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 0px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 0px;
+}
+
+p{
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.i1{
+  position:absolute;
+  z-index: 2;
+  margin-left:600px;
+  
+}
+.i2{
+  position:absolute;
+  z-index: 3;
+  margin-top:100px;
+  margin-left:600px;
+}
+
+.i3{
+  position:absolute;
+    z-index: 3;
+  margin-top:270px;
+  margin-left:620px;
+}
